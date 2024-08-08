@@ -39,12 +39,8 @@
     max-height: none;
     width: 100%;
     height: 100%;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    overflow-y: auto;
-    overflow-x: hidden;
+    inset: 0;
+    overflow: auto hidden;
   }
   
   #trustedsite-tm-overlay {
